@@ -1,0 +1,9 @@
+git init
+
+git remote add origin https://github.com/Antimony28/PortFolio.git
+
+git add.
+
+git commit -m "in it=initial commit"
+
+git push origin master
